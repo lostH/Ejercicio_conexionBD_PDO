@@ -1,0 +1,22 @@
+body{
+
+  font-family: sans-serif;
+  background: lightgray;
+}
+.box{
+  border: solid;
+  margin: auto;
+  width: 50%;
+
+}
+.box h1,h2{
+  text-align: center;
+  margin-left: 20px;
+}
+.formulario{
+  color: red;
+  padding-left:  10%;
+}
+input{
+  margin: auto;
+}
